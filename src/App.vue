@@ -27,18 +27,21 @@
     </div>
     <div class="main">
         <List
-            :direction="netPoints.direction"
+            :direction="tabs.active === 1 ? 'vertical' : 'horizontal'"
             :data="netPoints.data"
         />
+        <Map v-show="tabs.active === 2" :data="netPoints.data" />
     </div>
   </div>
 </template>
 
 <script>
 import List from './components/List.vue'
+import Map from './components/Map.vue'
+import POINTS from './points' // 导入本地数据
 export default {
   name: 'App',
-  components: { List },
+  components: { List, Map },
   data() {
       return {
           tabs: {
@@ -46,7 +49,7 @@ export default {
                   { label: '列表', value: 1},
                   { label: '地图', value: 2}
               ],
-              active: 1
+              active: 2
           },
           searchTypes: {
               data: [
@@ -61,7 +64,7 @@ export default {
           },
           // 网点信息
           netPoints: {
-              data: [], // 所有网点数据
+              data: POINTS, // 所有网点数据
               direction: 'vertical', //列表方向
           }
       }
@@ -74,6 +77,7 @@ export default {
   methods: {
       handleChangeTab({ value }) {
           this.tabs.active = value
+          this.netPoints.direction = value === 1 ? 'vertical' : 'horizontal'
       },
       handleChangeSearchType({ value }) {
           this.searchTypes.active = value
@@ -132,6 +136,7 @@ export default {
               border-top: 0.1rem solid #f1f1f1;
               position: absolute;
               top: 100%;
+              z-index: 999;
               li{
                   padding: 1rem 0;
                   justify-content: space-between;
