@@ -103,19 +103,25 @@ export default {
 .list-container-horizontal{
     position: fixed;
     bottom: 5vh;
-    width: 100vw;
     height: auto;
     z-index: 1;
-    overflow: auto hidden;
     ul{
+        width: 100vw;
+        overflow-y: hidden;
         white-space: nowrap;
+        scroll-snap-type: x mandatory;
+        -webkit-overflow-scrolling: touch;
         li{
             display: inline-flex;
             width: 90vw;
             margin-left: 2.5vw;
+            scroll-snap-align: center;
         }
-        li:nth-child(1){
+        li:first-child{
             margin-left: 5vw;
+        }
+        li:last-child{
+            margin-right: 5vw;
         }
     }
 }
