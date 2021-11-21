@@ -86,39 +86,50 @@ export default {
     computed: {
         // 当前中心网点
         currentCenterPoint() {
-            return this.data[this.value]
+            return this.data.length ? [this.data[this.value].longitude, this.data[this.value].latitude] : []
         }
+    },
+    watch: {
+        data: {
+            handler: function(nv) {
+                // 设置中心点
+                map.setCenter(this.currentCenterPoint)
+                // 渲染标记点
+                this.renderMarkers(nv.map((item, index) => {
+                    return {
+                        lnglat: [item.longitude, item.latitude],
+                        style: item.type - 1, // 标记物的样式索引
+                        id: index, // 标记物的id,值为索引
+                        name: 'suzhou', // 暂未用到
+                    }
+                }))
+            }
+        },
+        deep: true,
+        immediate: true
     },
     mounted() {
         map = new AMap.Map('mapContainer', {
-                center: [this.currentCenterPoint.longitude, this.currentCenterPoint.latitude],
                 zoom: 15,
                 resizeEnable: true,
                 // mapStyle: 'amap://styles/macaron' // 马卡龙风格
         });
-        this.renderMarkers()
+        MASS_MARKERS.setMap(map)
     },
     methods: {
         // 渲染所有的标记点
-        renderMarkers() {
-            MASS_MARKERS.setData(this.data.map((item, index) => {
-                return {
-                    lnglat: [item.longitude, item.latitude],
-                    style: item.type - 1,
-                    id: index,
-                    name: 'suzhou'
-                }
-            }))
-            MASS_MARKERS.setMap(map)
+        renderMarkers(data) {
+            MASS_MARKERS.clear()
+            MASS_MARKERS.setData(data)
             // 添加点击事件
             MASS_MARKERS.on('click', (e) => {
-                console.log(e)
                 const { lng, lat } = e.data.lnglat
                 const index = e.data.id
-                this.handleAfterTouchMarker([lng, lat], index)
+                this.handleTouchMarker([lng, lat], index)
             })
         },
-        handleAfterTouchMarker(lnglat, index) {
+        // 点击标记物事件
+        handleTouchMarker(lnglat, index) {
             const L = MARKER_STYLE.length
             const M = L / 2
             const T = M - 1

@@ -1,5 +1,5 @@
 <template>
-  <div id="app" class="flex-column container">
+  <div id="app" class="flex-column container" v-loading="loading">
     <div class="header">
         <div class="flex-row header-tab">
             <div
@@ -44,6 +44,7 @@ export default {
   components: { List, Map },
   data() {
       return {
+          loading: false,
           tabs: {
               data: [
                   { label: '列表', value: 1},
@@ -64,7 +65,7 @@ export default {
           },
           // 网点信息
           netPoints: {
-              data: POINTS, // 所有网点数据
+              data: [], // 所有网点数据
               direction: 'vertical', //列表方向
           }
       }
@@ -74,7 +75,21 @@ export default {
           return this.searchTypes.data.find(item => item.value === this.searchTypes.active).label
       }
   },
+  async mounted() {
+      const data = await this.getPoints()
+      this.netPoints.data = data
+      this.loading = false
+  },
   methods: {
+      getPoints() {
+          this.loading = true
+          // 手动延迟模拟请求效果
+          return new Promise((resolve, reject) => {
+              setTimeout(() => {
+                  resolve(POINTS)
+              },5000)
+          })
+      },
       handleChangeTab({ value }) {
           this.tabs.active = value
           this.netPoints.direction = value === 1 ? 'vertical' : 'horizontal'
