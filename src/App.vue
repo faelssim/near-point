@@ -25,7 +25,7 @@
             </ul>
         </div>
     </div>
-    <div class="main">
+    <div class="main" :class="{'main-vertical': tabs.active === 1}">
         <List
             v-model="currentCheckedIndex"
             :direction="tabs.active === 1 ? 'vertical' : 'horizontal'"
@@ -174,7 +174,12 @@ export default {
   .main{
       width: 100%;
       flex: 1 0 auto;
+  }
+  .main-vertical{
+      display: flex;
+      flex-direction: column;
       overflow: hidden auto;
+      padding-bottom: 1rem;
   }
 }
 </style>

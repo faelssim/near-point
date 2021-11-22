@@ -107,7 +107,8 @@ export default {
     }
 }
 .list-container-vertical{
-    height: 100%;
+    height: 0;
+    flex: 1 0 auto;
     overflow: hidden auto;
     ul{
         width: 90vw;
