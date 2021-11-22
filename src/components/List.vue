@@ -3,8 +3,9 @@
         <ul>
             <li
                 class="ie-box flex-column"
-                v-for="item of data"
+                v-for="(item, index) of data"
                 :key="item.id"
+                :ref="`item_${index}`"
             >
                 <div class="flex-row list-item-header">
                     <div :style="{'background': item_type[item.type].color}">{{ item_type[item.type].name }}</div>
@@ -49,6 +50,22 @@ export default {
         data: {
             type: Array,
             default: () => {}
+        },
+        value: {
+            type: [String, Number],
+            default: 0
+        }
+    },
+    watch: {
+        value(nv) {
+            if (this.direction === 'horizontal') {
+                const ref = this.$refs[`item_${nv}`]
+                if (ref && ref[0]) {
+                    ref[0].scrollIntoView({
+                        behavior: 'smooth'
+                    })
+                }
+            }
         }
     },
     data() {

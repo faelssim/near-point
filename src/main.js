@@ -1,3 +1,10 @@
+/*
+ * @Author: wangkun
+ * @Date: 2021-11-22 10:09:21
+ * @LastEditTime: 2021-11-22 10:49:52
+ * @LastEditors: wangkun
+ * @Description: 
+ */
 import Vue from 'vue'
 import App from './App.vue'
 import '../style/reset.css'
@@ -17,7 +24,7 @@ Vue.directive('loading', {
         if (value) {
             document.body.appendChild(el.loadingHTML)
         } else {
-            document.body.removeChild(el.loadingHTML)
+            el.loadingHTML.remove()
         }
     }
 })

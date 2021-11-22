@@ -27,10 +27,11 @@
     </div>
     <div class="main">
         <List
+            v-model="currentCheckedIndex"
             :direction="tabs.active === 1 ? 'vertical' : 'horizontal'"
             :data="netPoints.data"
         />
-        <Map v-show="tabs.active === 2" :data="netPoints.data" />
+        <Map v-show="tabs.active === 2" v-model="currentCheckedIndex" :data="netPoints.data" />
     </div>
   </div>
 </template>
@@ -67,7 +68,8 @@ export default {
           netPoints: {
               data: [], // 所有网点数据
               direction: 'vertical', //列表方向
-          }
+          },
+          currentCheckedIndex: 0, // 当前选择网点的索引
       }
   },
   computed: {
@@ -87,7 +89,7 @@ export default {
           return new Promise((resolve, reject) => {
               setTimeout(() => {
                   resolve(POINTS)
-              },5000)
+              },3000)
           })
       },
       handleChangeTab({ value }) {
