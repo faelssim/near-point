@@ -117,6 +117,9 @@ export default {
     li{
         margin-top: 1rem;
     }
+    li:first-child{
+        margin-top: 0;
+    }
 }
 .list-container-horizontal{
     position: fixed;
