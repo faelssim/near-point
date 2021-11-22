@@ -27,11 +27,14 @@
     </div>
     <div class="main" :class="{'main-vertical ie-box': tabs.active === 1}">
         <List
-            v-model="currentCheckedIndex"
-            :direction="tabs.active === 1 ? 'vertical' : 'horizontal'"
+            v-if="tabs.active === 1"
             :data="netPoints.data"
         />
-        <Map v-show="tabs.active === 2" v-model="currentCheckedIndex" :data="netPoints.data" />
+        <Map v-if="tabs.active === 2" v-model="currentCheckedIndex" :data="netPoints.data" />
+        <div v-if="tabs.active === 2" class="main-fixed">
+            <ToolTip @touch-tool-tip="handleTouchToolTip" />
+            <List v-model="currentCheckedIndex" direction="horizontal" :data="netPoints.data" />
+        </div>
     </div>
   </div>
 </template>
@@ -39,10 +42,11 @@
 <script>
 import List from './components/List.vue'
 import Map from './components/Map.vue'
+import ToolTip from './components/ToolTip.vue'
 import POINTS from './points' // 导入本地数据
 export default {
   name: 'App',
-  components: { List, Map },
+  components: { List, Map, ToolTip },
   data() {
       return {
           loading: false,
@@ -77,15 +81,17 @@ export default {
           return this.searchTypes.data.find(item => item.value === this.searchTypes.active).label
       }
   },
-  async mounted() {
-      const data = await this.getPoints()
-      this.netPoints.data = data
-      this.loading = false
+  mounted() {
+      this.getPoints()
   },
   methods: {
-      getPoints() {
+      async getPoints() {
           this.loading = true
           // 手动延迟模拟请求效果
+          this.netPoints.data = await this.doRequest()
+          this.loading = false
+      },
+      doRequest() {
           return new Promise((resolve, reject) => {
               setTimeout(() => {
                   resolve(POINTS)
@@ -99,6 +105,18 @@ export default {
       handleChangeSearchType({ value }) {
           this.searchTypes.active = value
           this.searchTypes.visible = false
+      },
+      handleTouchToolTip(eventName) {
+          switch(eventName) {
+              case 'list':
+                  this.tabs.active = 1
+                  break
+              case 'location':
+                  this.getPoints()
+                  break
+              default:
+                  return
+          }
       }
   }
 }
@@ -180,6 +198,11 @@ export default {
       flex-direction: column;
       overflow: hidden auto;
       padding: 1rem 0;
+  }
+  .main-fixed{
+        position: fixed;
+        bottom: 5vh;
+        z-index: 1;
   }
 }
 </style>

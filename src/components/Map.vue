@@ -85,7 +85,7 @@ export default {
     },
     computed: {
         // 当前中心网点
-        currentCenterPoint() {
+        currentCenterLnglat() {
             return this.data.length ? [this.data[this.value].longitude, this.data[this.value].latitude] : []
         }
     },
@@ -93,7 +93,7 @@ export default {
         data: {
             handler: function(nv) {
                 // 设置中心点
-                map.setCenter(this.currentCenterPoint)
+                map.setCenter(this.currentCenterLnglat)
                 // 渲染标记点
                 this.renderMarkers(nv.map((item, index) => {
                     return {

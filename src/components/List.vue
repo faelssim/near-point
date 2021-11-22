@@ -58,13 +58,11 @@ export default {
     },
     watch: {
         value(nv) {
-            if (this.direction === 'horizontal') {
-                const ref = this.$refs[`item_${nv}`]
-                if (ref && ref[0]) {
-                    ref[0].scrollIntoView({
-                        behavior: 'smooth'
-                    })
-                }
+            const ref = this.$refs[`item_${nv}`]
+            if (ref && ref[0]) {
+                ref[0].scrollIntoView({
+                    behavior: 'smooth'
+                })
             }
         }
     },
@@ -122,10 +120,7 @@ export default {
     }
 }
 .list-container-horizontal{
-    position: fixed;
-    bottom: 5vh;
     height: auto;
-    z-index: 1;
     ul{
         width: 100vw;
         overflow-y: hidden;
