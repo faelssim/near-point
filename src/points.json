@@ -1,50 +1,1992 @@
 [
     {
-        "longitude": 120.731232,
-        "latitude": 31.2448603,
-        "type": 1,
-        "address": "淞泽八区2幢104室代收点",
-        "phone": "0512-8999999",
-        "time": "09:00-18:00"
+        "packageDeviceAddress": "武里山路与扶蔬路交口武里山天街A4号楼6号电梯观光电梯入口处",
+        "packageName": "武里山天街A速递易A11",
+        "longitude": "117.3094900",
+        "latitude": "31.8579700",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 26,
+        "countNum": 18
     },
     {
-        "longitude": 120.731232,
-        "latitude": 31.2448603,
-        "type": 3,
-        "address": "淞泽八区4幢菜鸟驿站",
-        "phone": "0512-8999999",
-        "time": "09:00-18:00"
+        "packageDeviceAddress": "天街3B1入口处大厅丰巢快递柜",
+        "packageName": "天街3B1入口处大厅丰巢快递柜",
+        "longitude": "117.3094900",
+        "latitude": "31.8579700",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 26,
+        "countNum": 48
     },
     {
-        "longitude": 120.731232,
-        "latitude": 31.247896,
-        "type": 3,
-        "address": "星洲大厦门卫处",
-        "phone": "0512-8999999",
-        "time": "09:00-18:00"
+        "packageDeviceAddress": "名郡二栋丰巢快递柜",
+        "packageName": "名郡二栋丰巢快递柜",
+        "longitude": "117.3094900",
+        "latitude": "31.8579700",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 26,
+        "countNum": 50
     },
     {
-        "longitude": 120.730993,
-        "latitude": 31.253877,
-        "type": 2,
-        "address": "益新大厦1楼合作点",
-        "phone": "0512-8999999",
-        "time": "09:00-18:00"
+        "packageDeviceAddress": "翰博福映光电通泰光电丰巢快递贵",
+        "packageName": "翰博福映光电通泰光电丰巢快递贵",
+        "longitude": "117.3094900",
+        "latitude": "31.8579700",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 26,
+        "countNum": 51
     },
     {
-        "longitude": 120.735678,
-        "latitude": 31.253877,
-        "type": 1,
-        "address": "腾飞创新园代收点",
-        "phone": "0512-8999999",
-        "time": "09:00-18:00"
+        "packageDeviceAddress": "惠科食堂门口丰巢快递柜",
+        "packageName": "惠科食堂门口丰巢快递柜",
+        "longitude": "117.3094900",
+        "latitude": "31.8579700",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 26,
+        "countNum": 52
     },
     {
-        "longitude": 120.734533,
-        "latitude": 31.248878,
-        "type": 4,
-        "address": "东方大道1号",
-        "phone": "0512-8999999",
-        "time": "09:00-18:00"
+        "packageDeviceAddress": "华润熙云府富友快递柜",
+        "packageName": "华润熙云府富友快递柜",
+        "longitude": "117.3094900",
+        "latitude": "31.8579700",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 26,
+        "countNum": 53
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区店埠桴槎路青春苑自行车车库西侧",
+        "packageName": "青春苑",
+        "longitude": "117.3094900",
+        "latitude": "31.8579700",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 26,
+        "countNum": 113
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区陇海路店埠和平花园东门门卫室旁",
+        "packageName": "和平花园",
+        "longitude": "117.3094900",
+        "latitude": "31.8579700",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 26,
+        "countNum": 125
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区物流大道与星火路交口东北角27号楼北面",
+        "packageName": "兴海苑D区",
+        "longitude": "117.3094900",
+        "latitude": "31.8579700",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 26,
+        "countNum": 133
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区采石路与合裕路交口西北角薄板大院自行车棚旁丰巢柜",
+        "packageName": "薄板大院",
+        "longitude": "117.3094900",
+        "latitude": "31.8579700",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 26,
+        "countNum": 151
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区人民路与富民巷交叉口南150米肥东学府花园物业西侧靠墙丰巢柜",
+        "packageName": "肥东学府花园",
+        "longitude": "117.3094900",
+        "latitude": "31.8579700",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 26,
+        "countNum": 166
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区桂王路丽水云天广场南侧1号柜丰巢柜",
+        "packageName": "丽水云天",
+        "longitude": "117.3094900",
+        "latitude": "31.8579700",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 26,
+        "countNum": 195
+    },
+    {
+        "packageDeviceAddress": "和平路291号蓝岸雅居物业监控室旁西侧",
+        "packageName": "蓝岸雅居速递易A73",
+        "longitude": "117.3111500",
+        "latitude": "31.8571890",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 205,
+        "countNum": 14
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区大通路51号力天大厦停车场旁",
+        "packageName": "力天大厦",
+        "longitude": "117.3099980",
+        "latitude": "31.8597810",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 206,
+        "countNum": 119
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区大通路51号天和大厦地下停车库出口",
+        "packageName": "天和大厦",
+        "longitude": "117.3105500",
+        "latitude": "31.8601900",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 269,
+        "countNum": 118
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区北环路辅路11号附近工矿厂生活小区工矿厂生活小区门口西边围墙",
+        "packageName": "工矿厂生活小区",
+        "longitude": "117.3118130",
+        "latitude": "31.8567300",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 285,
+        "countNum": 146
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区大通路88号22栋旁铁门旁丰巢柜",
+        "packageName": "联合大院",
+        "longitude": "117.3115000",
+        "latitude": "31.8603120",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 331,
+        "countNum": 172
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区芜湖路与滁州路坝上街环球中心中央公馆3号写字楼门前围墙下",
+        "packageName": "坝上街环球中心中央公馆",
+        "longitude": "117.3060910",
+        "latitude": "31.8598190",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 356,
+        "countNum": 105
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区巢湖路780号水荆苑自行车车库旁丰巢柜",
+        "packageName": "水荆苑",
+        "longitude": "117.3050080",
+        "latitude": "31.8582500",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 399,
+        "countNum": 202
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区沿河路与和平路交口教师新村自行车棚旁丰巢柜",
+        "packageName": "教师新村",
+        "longitude": "117.3063430",
+        "latitude": "31.8554100",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 400,
+        "countNum": 158
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区芜湖路与巢湖路交口北150米万达中心名宅15幢小广场丰巢柜",
+        "packageName": "万达中心名宅",
+        "longitude": "117.3048600",
+        "latitude": "31.8590900",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 429,
+        "countNum": 162
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区芜湖路与巢湖路交口北150米万达中心名宅15幢门卫室对面丰巢柜",
+        "packageName": "万达中心名宅",
+        "longitude": "117.3048600",
+        "latitude": "31.8590900",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 429,
+        "countNum": 164
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区沿河路与和平路交口教师新村小区车库南面侧墙",
+        "packageName": "教师新村",
+        "longitude": "117.3060150",
+        "latitude": "31.8547950",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 472,
+        "countNum": 110
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区长江东大街与明光路交口坝上街环球中心7号楼与8号楼中间",
+        "packageName": "坝上街环球中心",
+        "longitude": "117.3077700",
+        "latitude": "31.8624200",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 505,
+        "countNum": 106
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区芜湖路与巢湖路交口万达公馆西门门卫室旁1号丰巢柜",
+        "packageName": "万达公馆",
+        "longitude": "117.3040080",
+        "latitude": "31.8593500",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 514,
+        "countNum": 163
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区芜湖路与巢湖路交口万达公馆西门门卫室旁2号丰巢柜",
+        "packageName": "万达公馆",
+        "longitude": "117.3040080",
+        "latitude": "31.8593500",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 514,
+        "countNum": 165
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区屯溪路22号水上园小区停车库西墙",
+        "packageName": "水上园小区",
+        "longitude": "117.3101730",
+        "latitude": "31.8531890",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 548,
+        "countNum": 121
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区春雨花园",
+        "packageName": "丰巢包裹柜",
+        "longitude": "117.3038640",
+        "latitude": "31.8560910",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 551,
+        "countNum": 40
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区大通路与东一环交口向东50米海尔小区南门进门右侧丰巢柜",
+        "packageName": "海尔小区",
+        "longitude": "117.3152080",
+        "latitude": "31.8597200",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 594,
+        "countNum": 143
+    },
+    {
+        "packageDeviceAddress": "合肥市包河区万达广场中心名宅1号楼",
+        "packageName": "丰巢包裹柜",
+        "longitude": "117.3026350",
+        "latitude": "31.8570020",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 634,
+        "countNum": 42
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区马鞍山路130号万达广场7号写字楼大厅",
+        "packageName": "万达广场",
+        "longitude": "117.3026350",
+        "latitude": "31.8570020",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 634,
+        "countNum": 123
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区马鞍山路130号万达广场6号写字楼大厅",
+        "packageName": "万达广场",
+        "longitude": "117.3026350",
+        "latitude": "31.8570020",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 634,
+        "countNum": 124
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区徽州大道与南一环交口向北50米东方广场写字楼大厅过道丰巢柜",
+        "packageName": "东方广场",
+        "longitude": "117.3025820",
+        "latitude": "31.8570770",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 637,
+        "countNum": 190
+    },
+    {
+        "packageDeviceAddress": "宁国路与合巢路交口健身小广场南侧",
+        "packageName": "教师新村速递易D74",
+        "longitude": "117.3024750",
+        "latitude": "31.8574730",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 641,
+        "countNum": 19
+    },
+    {
+        "packageDeviceAddress": "繁昌路29号鼎元府邸10栋门外东侧",
+        "packageName": "鼎元府邸速递易B70",
+        "longitude": "117.3146210",
+        "latitude": "31.8543300",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 656,
+        "countNum": 16
+    },
+    {
+        "packageDeviceAddress": "繁昌路29号鼎元府邸B10栋入口东侧",
+        "packageName": "鼎元府邸B速递易B94",
+        "longitude": "117.3146210",
+        "latitude": "31.8543300",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 656,
+        "countNum": 17
+    },
+    {
+        "packageDeviceAddress": "合肥市包河区万达中心名宅15栋小广场",
+        "packageName": "丰巢包裹柜",
+        "longitude": "117.3031540",
+        "latitude": "31.8610570",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 664,
+        "countNum": 33
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区屯溪路78号滨河苑小区保安室旁",
+        "packageName": "滨河苑",
+        "longitude": "117.3070530",
+        "latitude": "31.8523600",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 665,
+        "countNum": 103
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区和平路266号中国邮政投递站",
+        "packageName": "和平路投递站",
+        "longitude": "117.3161600",
+        "latitude": "31.8566200",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 674,
+        "countNum": 5
+    },
+    {
+        "packageDeviceAddress": "望江东路特一号物业旁",
+        "packageName": "金水坊.速递易D35",
+        "longitude": "117.3020780",
+        "latitude": "31.8570190",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 685,
+        "countNum": 22
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区巢湖路与银屏巷交口",
+        "packageName": "丰巢包裹柜",
+        "longitude": "117.3031310",
+        "latitude": "31.8546910",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 686,
+        "countNum": 49
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区合裕路与钢红路交口西南角钢红南区大门入内左侧门卫室旁",
+        "packageName": "钢红南区",
+        "longitude": "117.3119810",
+        "latitude": "31.8523220",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 688,
+        "countNum": 111
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市庐阳区淮河中路77号百盛办公室客梯入口丰巢柜",
+        "packageName": "合肥百盛",
+        "longitude": "117.3019940",
+        "latitude": "31.8570330",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 693,
+        "countNum": 181
+    },
+    {
+        "packageDeviceAddress": "和平路266号和平路投递站邮局门口",
+        "packageName": "和平路投递站速递易D34",
+        "longitude": "117.3164670",
+        "latitude": "31.8567910",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 698,
+        "countNum": 20
+    },
+    {
+        "packageDeviceAddress": "芜湖路与马鞍山路交口12栋入口南侧",
+        "packageName": "万达公馆12号楼速递易X96",
+        "longitude": "117.3014600",
+        "latitude": "31.8579800",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 734,
+        "countNum": 28
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区马鞍山路与芜湖路交口向北100米小区北门内日日顺快递柜旁",
+        "packageName": "省质监局生活区",
+        "longitude": "117.3014600",
+        "latitude": "31.8579800",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 734,
+        "countNum": 132
+    },
+    {
+        "packageDeviceAddress": "材运小区电动车车棚西侧",
+        "packageName": "丰巢",
+        "longitude": "117.3111420",
+        "latitude": "31.8645990",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 751,
+        "countNum": 86
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区长江东路/明光路交口向东100米（路南）材运小区材运小区东门车库旁",
+        "packageName": "材运小区",
+        "longitude": "117.3111420",
+        "latitude": "31.8645990",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 751,
+        "countNum": 138
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区大通路34号星海苑星海苑小区进门左侧",
+        "packageName": "星海苑",
+        "longitude": "117.3167880",
+        "latitude": "31.8605400",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 766,
+        "countNum": 129
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区滨水华城小区",
+        "packageName": "丰巢包裹柜",
+        "longitude": "117.3033750",
+        "latitude": "31.8531610",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 775,
+        "countNum": 37
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区巢湖路91号滨水华城保安室旁",
+        "packageName": "滨水华城",
+        "longitude": "117.3033750",
+        "latitude": "31.8531610",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 775,
+        "countNum": 108
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区水晶苑小区",
+        "packageName": "丰巢包裹柜",
+        "longitude": "117.3035580",
+        "latitude": "31.8529510",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 780,
+        "countNum": 39
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区巢湖路89号水晶苑小区3号楼门口",
+        "packageName": "水晶苑小区",
+        "longitude": "117.3035580",
+        "latitude": "31.8529510",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 780,
+        "countNum": 148
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区和平路街道长江东路与来安路交口东来家园大门右侧丰巢柜",
+        "packageName": "东来家园",
+        "longitude": "117.3151400",
+        "latitude": "31.8629820",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 783,
+        "countNum": 152
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区包河金街与银屏巷交口工商小区门口西侧丰巢柜",
+        "packageName": "工商小区",
+        "longitude": "117.3021090",
+        "latitude": "31.8544200",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 784,
+        "countNum": 155
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区繁昌路8号和寓家园大门口",
+        "packageName": "和寓家园速递易G98",
+        "longitude": "117.3158040",
+        "latitude": "31.8536210",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 792,
+        "countNum": 32
+    },
+    {
+        "packageDeviceAddress": "和寓家园西门大门口2号",
+        "packageName": "丰巢",
+        "longitude": "117.3158040",
+        "latitude": "31.8536210",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 792,
+        "countNum": 78
+    },
+    {
+        "packageDeviceAddress": "和寓家园西门门口1号",
+        "packageName": "丰巢",
+        "longitude": "117.3158040",
+        "latitude": "31.8536210",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 792,
+        "countNum": 81
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区马鞍山路与银屏路交口锦绣园4号楼架空层丰巢柜",
+        "packageName": "锦绣园",
+        "longitude": "117.3025360",
+        "latitude": "31.8536240",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 801,
+        "countNum": 134
+    },
+    {
+        "packageDeviceAddress": "圣大国际商住楼西侧山墙北侧楼梯下",
+        "packageName": "丰巢",
+        "longitude": "117.3035430",
+        "latitude": "31.8634890",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 809,
+        "countNum": 56
+    },
+    {
+        "packageDeviceAddress": "圣大国际商住楼西侧山墙自行车库对面",
+        "packageName": "丰巢",
+        "longitude": "117.3035430",
+        "latitude": "31.8634890",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 809,
+        "countNum": 67
+    },
+    {
+        "packageDeviceAddress": "铜陵路与长江东大街交口铜陵新村39栋小广场",
+        "packageName": "铜陵新村速递易D10",
+        "longitude": "117.3169330",
+        "latitude": "31.8547880",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 813,
+        "countNum": 23
+    },
+    {
+        "packageDeviceAddress": "填海巷小区6栋西侧",
+        "packageName": "丰巢",
+        "longitude": "117.3083420",
+        "latitude": "31.8654310",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 825,
+        "countNum": 87
+    },
+    {
+        "packageDeviceAddress": "宝业城市绿苑西区北门自行车棚内",
+        "packageName": "丰巢",
+        "longitude": "117.3173600",
+        "latitude": "31.8551600",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 832,
+        "countNum": 68
+    },
+    {
+        "packageDeviceAddress": "宝业城市绿苑西区中心广场",
+        "packageName": "丰巢",
+        "longitude": "117.3173600",
+        "latitude": "31.8551600",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 832,
+        "countNum": 93
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区马鞍山路与航运巷交叉口航运大院宿舍值班室西边靠外侧丰巢柜",
+        "packageName": "航运大院宿舍",
+        "longitude": "117.3042530",
+        "latitude": "31.8518510",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 834,
+        "countNum": 196
+    },
+    {
+        "packageDeviceAddress": "圣大国际1号楼门口",
+        "packageName": "丰巢",
+        "longitude": "117.3032300",
+        "latitude": "31.8636050",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 838,
+        "countNum": 90
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区宋斗湾路与裕丰路交汇处裕园小区停车棚旁丰巢柜",
+        "packageName": "裕园小区",
+        "longitude": "117.3138580",
+        "latitude": "31.8516100",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 839,
+        "countNum": 177
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区宋斗湾路与裕丰路交汇处裕园小区物业办公室旁丰巢柜",
+        "packageName": "裕园小区",
+        "longitude": "117.3138580",
+        "latitude": "31.8516100",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 839,
+        "countNum": 185
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区马鞍山路180号又一居5栋楼下丰巢柜",
+        "packageName": "又一居",
+        "longitude": "117.3005830",
+        "latitude": "31.8558900",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 851,
+        "countNum": 194
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区巢湖路83号航运巷航运小区航运小区值班室西边",
+        "packageName": "航运小区",
+        "longitude": "117.3040770",
+        "latitude": "31.8517020",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 857,
+        "countNum": 135
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区和平路246号合肥市第二人民医院和平路院区2号楼西北角1号丰巢柜",
+        "packageName": "合肥市第二人民医院和平路院区",
+        "longitude": "117.3180100",
+        "latitude": "31.8560100",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 860,
+        "countNum": 160
+    },
+    {
+        "packageDeviceAddress": "长江东路987号锦华苑5栋架空层东侧",
+        "packageName": "锦华苑速递易A87",
+        "longitude": "117.3103640",
+        "latitude": "31.8657490",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 863,
+        "countNum": 12
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区长江东路987号锦华苑锦华苑大门口门卫室旁丰巢柜",
+        "packageName": "锦华苑",
+        "longitude": "117.3103640",
+        "latitude": "31.8657490",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 863,
+        "countNum": 131
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区新园小区",
+        "packageName": "丰巢包裹柜",
+        "longitude": "117.3046570",
+        "latitude": "31.8512900",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 867,
+        "countNum": 36
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区巢湖路75号新园小区保安室西侧靠墙",
+        "packageName": "新园小区",
+        "longitude": "117.3046570",
+        "latitude": "31.8512900",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 867,
+        "countNum": 117
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区长江东大街南200米来安花园西侧停车库旁",
+        "packageName": "来安花园",
+        "longitude": "117.3176800",
+        "latitude": "31.8613700",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 879,
+        "countNum": 114
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区长江东路1050号中方名都C座前广场健身器材处丰巢柜",
+        "packageName": "中方名都",
+        "longitude": "117.3058930",
+        "latitude": "31.8655610",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 893,
+        "countNum": 191
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区包公街道屯溪路与巢湖路交口金湾公寓南门入口通道东侧一号丰巢柜",
+        "packageName": "金湾公寓",
+        "longitude": "117.3072430",
+        "latitude": "31.8501800",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 895,
+        "countNum": 174
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区包公街道巢湖路与南一环交口金湾公寓东门入口旁丰巢柜",
+        "packageName": "金湾公寓",
+        "longitude": "117.3072430",
+        "latitude": "31.8501800",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 895,
+        "countNum": 193
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区贵都花园小区",
+        "packageName": "丰巢包裹柜",
+        "longitude": "117.3022230",
+        "latitude": "31.8524610",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 908,
+        "countNum": 35
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区包公街道马鞍山路78号贵都花园大门入口处丰巢柜",
+        "packageName": "贵都花园",
+        "longitude": "117.3022230",
+        "latitude": "31.8524610",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 908,
+        "countNum": 139
+    },
+    {
+        "packageDeviceAddress": "芜湖路97号安徽体育局运动员公寓门卫室后面南墙运动员公寓门卫室后南墙",
+        "packageName": "安徽体育局运动员公寓门卫室后面南墙速递易S92",
+        "longitude": "117.2998730",
+        "latitude": "31.8559720",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 913,
+        "countNum": 21
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市芜湖路97号体育局运动员公寓保安室后面",
+        "packageName": "合肥市97号体育局运动员公寓保安室后面",
+        "longitude": "117.2998730",
+        "latitude": "31.8559720",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 913,
+        "countNum": 44
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区迎屏街与马鞍山路交叉口西北200米安徽省体育局训练基地运动员公寓1#楼丰巢柜",
+        "packageName": "安徽省体育局训练基地运动员公寓",
+        "longitude": "117.2998730",
+        "latitude": "31.8559720",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 913,
+        "countNum": 173
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区城东街道屯溪路/滨河路交口向西200米海滨家园物业办公室东面丰巢柜",
+        "packageName": "海滨家园",
+        "longitude": "117.3100200",
+        "latitude": "31.8497600",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 925,
+        "countNum": 153
+    },
+    {
+        "packageDeviceAddress": "圣大国际商贸中心一楼门口",
+        "packageName": "丰巢",
+        "longitude": "117.3022000",
+        "latitude": "31.8639830",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 936,
+        "countNum": 92
+    },
+    {
+        "packageDeviceAddress": "巢湖路33号金湾嘉园大门入口架空层",
+        "packageName": "金湾嘉园速递易Y92",
+        "longitude": "117.3061140",
+        "latitude": "31.8500120",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 941,
+        "countNum": 11
+    },
+    {
+        "packageDeviceAddress": "合肥市包河区巢湖路33号附近金湾嘉园大门入口处架空层邮政自提柜",
+        "packageName": "合肥市包河区金湾嘉园大门入口处架空层",
+        "longitude": "117.3061140",
+        "latitude": "31.8500120",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 941,
+        "countNum": 45
+    },
+    {
+        "packageDeviceAddress": "合肥市包河区巢湖路33号金湾家园",
+        "packageName": "丰巢包裹柜",
+        "longitude": "117.3061140",
+        "latitude": "31.8500120",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 941,
+        "countNum": 46
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区屯溪路588号金湾嘉园大门入口架空层",
+        "packageName": "金湾嘉园",
+        "longitude": "117.3061140",
+        "latitude": "31.8500120",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 941,
+        "countNum": 115
+    },
+    {
+        "packageDeviceAddress": "合裕路宋斗弯路交口聚贤小区115号商铺商铺边",
+        "packageName": "聚贤小区115号商铺速递易T18",
+        "longitude": "117.3132320",
+        "latitude": "31.8502290",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 948,
+        "countNum": 27
+    },
+    {
+        "packageDeviceAddress": "合肥市合裕路聚贤小区1栋115号商铺口邮政自提柜",
+        "packageName": "合肥市聚贤小区1栋115号商铺",
+        "longitude": "117.3132320",
+        "latitude": "31.8502290",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 948,
+        "countNum": 43
+    },
+    {
+        "packageDeviceAddress": "中翔盛景名苑西北门广场右侧",
+        "packageName": "丰巢",
+        "longitude": "117.3148880",
+        "latitude": "31.8509500",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 953,
+        "countNum": 83
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区合裕路与铜陵路交口向西500米中翔盛景名苑3-3A座架空层下",
+        "packageName": "中翔盛景名苑",
+        "longitude": "117.3148880",
+        "latitude": "31.8509500",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 953,
+        "countNum": 99
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区裕溪路盛景名苑丰巢柜",
+        "packageName": "盛景名苑",
+        "longitude": "117.3148880",
+        "latitude": "31.8509500",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 953,
+        "countNum": 187
+    },
+    {
+        "packageDeviceAddress": "宋斗湾与滨河路交叉口西南角西子银马公寓4栋3单元门外北侧",
+        "packageName": "西子银马公寓速递易A71",
+        "longitude": "117.3115390",
+        "latitude": "31.8496890",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 955,
+        "countNum": 8
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区能源大厦",
+        "packageName": "丰巢包裹柜",
+        "longitude": "117.3011320",
+        "latitude": "31.8527930",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 962,
+        "countNum": 38
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区包公街道马鞍山路78号能源大厦大厅入口左侧丰巢柜",
+        "packageName": "皖能大厦",
+        "longitude": "117.3011320",
+        "latitude": "31.8527930",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 962,
+        "countNum": 154
+    },
+    {
+        "packageDeviceAddress": "南都云亭公寓楼对面电动车停车场旁绿化带",
+        "packageName": "丰巢",
+        "longitude": "117.3125310",
+        "latitude": "31.8662800",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 967,
+        "countNum": 84
+    },
+    {
+        "packageDeviceAddress": "南都云亭公寓楼前下车库入口",
+        "packageName": "丰巢",
+        "longitude": "117.3125310",
+        "latitude": "31.8662800",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 967,
+        "countNum": 89
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区包公街道马鞍山路与屯溪路交叉口荣昌园小区物业围墙东边",
+        "packageName": "荣昌园小区",
+        "longitude": "117.3051380",
+        "latitude": "31.8500710",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 968,
+        "countNum": 127
+    },
+    {
+        "packageDeviceAddress": "宝业城市绿苑2号保安室旁",
+        "packageName": "丰巢",
+        "longitude": "117.3186490",
+        "latitude": "31.8539350",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 1000,
+        "countNum": 96
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区大通路与东一环交口向东150米小区进门东侧",
+        "packageName": "搪瓷厂小区",
+        "longitude": "117.3070370",
+        "latitude": "31.8491400",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1012,
+        "countNum": 144
+    },
+    {
+        "packageDeviceAddress": "东方银座保安室西侧",
+        "packageName": "丰巢",
+        "longitude": "117.3140180",
+        "latitude": "31.8662610",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 1019,
+        "countNum": 77
+    },
+    {
+        "packageDeviceAddress": "淮南村大门入口旁",
+        "packageName": "丰巢",
+        "longitude": "117.3121570",
+        "latitude": "31.8669110",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 1024,
+        "countNum": 91
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区长江路与琅琊山路交口淮南村大门入口旁丰巢柜",
+        "packageName": "淮南村",
+        "longitude": "117.3121570",
+        "latitude": "31.8669110",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1024,
+        "countNum": 179
+    },
+    {
+        "packageDeviceAddress": "兴苑小区物业办公室旁边",
+        "packageName": "丰巢",
+        "longitude": "117.3135300",
+        "latitude": "31.8666100",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 1035,
+        "countNum": 88
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市屯溪路132号水厂宿舍门卫室",
+        "packageName": "丰巢包裹柜",
+        "longitude": "117.3052100",
+        "latitude": "31.8493800",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 1036,
+        "countNum": 47
+    },
+    {
+        "packageDeviceAddress": "万和新城广场2号楼架空层",
+        "packageName": "丰巢",
+        "longitude": "117.3201900",
+        "latitude": "31.8570670",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 1041,
+        "countNum": 60
+    },
+    {
+        "packageDeviceAddress": "万和新城广场3号楼架空层",
+        "packageName": "丰巢",
+        "longitude": "117.3201900",
+        "latitude": "31.8570670",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 1041,
+        "countNum": 63
+    },
+    {
+        "packageDeviceAddress": "万和广场4号楼下",
+        "packageName": "丰巢",
+        "longitude": "117.3201900",
+        "latitude": "31.8570670",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 1041,
+        "countNum": 69
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区周谷堆恢复楼",
+        "packageName": "丰巢包裹柜",
+        "longitude": "117.3043440",
+        "latitude": "31.8496130",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 1045,
+        "countNum": 41
+    },
+    {
+        "packageDeviceAddress": "全椒路205号东方银座东门入口处北侧",
+        "packageName": "东方银座速递易A53",
+        "longitude": "117.3146100",
+        "latitude": "31.8662900",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1048,
+        "countNum": 7
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区大通路与铜陵路交口恒盛豪庭恒盛豪庭物业服务中心过道",
+        "packageName": "恒盛豪庭",
+        "longitude": "117.3200680",
+        "latitude": "31.8602710",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1053,
+        "countNum": 102
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区铜陵路与和平路交口恒盛豪庭幸福驿站2号柜机",
+        "packageName": "恒盛豪庭",
+        "longitude": "117.3200680",
+        "latitude": "31.8602700",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1053,
+        "countNum": 112
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区大通路与铜陵路交口恒盛豪庭幸福驿站3号柜机",
+        "packageName": "恒盛豪庭",
+        "longitude": "117.3200680",
+        "latitude": "31.8602700",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1053,
+        "countNum": 120
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区铜陵路与和平路交口恒盛豪庭幸福驿站处1号柜机",
+        "packageName": "恒盛豪庭",
+        "longitude": "117.3200680",
+        "latitude": "31.8602700",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1053,
+        "countNum": 122
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区铜陵路与和平路交口恒盛豪庭幸福驿站处4号丰巢柜",
+        "packageName": "恒盛豪庭",
+        "longitude": "117.3200680",
+        "latitude": "31.8602700",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1053,
+        "countNum": 145
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区包公街道马鞍山路99号皖能大厦西侧丰巢柜",
+        "packageName": "皖能大厦",
+        "longitude": "117.3003390",
+        "latitude": "31.8522220",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1061,
+        "countNum": 182
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区芜湖路97号省体育局栋楼入口大厅丰巢柜",
+        "packageName": "安徽省体育局",
+        "longitude": "117.2979800",
+        "latitude": "31.8566800",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1073,
+        "countNum": 171
+    },
+    {
+        "packageDeviceAddress": "繁昌路4号中翔小区木材厂宿舍自行车车库旁西侧",
+        "packageName": "中翔小区木材厂宿舍速递易S14",
+        "longitude": "117.3143390",
+        "latitude": "31.8492810",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1088,
+        "countNum": 25
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区东一环与长江路交口春晖苑入口左侧物业办公室旁边",
+        "packageName": "春晖苑",
+        "longitude": "117.3141710",
+        "latitude": "31.8669110",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1090,
+        "countNum": 141
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区宣城路与芜湖路交口安徽省体育局西村丰巢柜",
+        "packageName": "安徽省体育局西村",
+        "longitude": "117.2978290",
+        "latitude": "31.8565290",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1090,
+        "countNum": 201
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区包公街道屯溪路136号警察院干警楼警察院干警楼北楼西侧",
+        "packageName": "警察院干警楼",
+        "longitude": "117.3045430",
+        "latitude": "31.8490520",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1094,
+        "countNum": 128
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区风和园小区",
+        "packageName": "丰巢包裹柜",
+        "longitude": "117.3020170",
+        "latitude": "31.8501850",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 1108,
+        "countNum": 34
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区南一环风和园小区东侧周谷堆恢复楼南区2栋对面丰巢柜",
+        "packageName": "周谷堆恢复楼南区",
+        "longitude": "117.3020170",
+        "latitude": "31.8501850",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1108,
+        "countNum": 161
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区屯溪路168号风和园二号岗丰巢柜",
+        "packageName": "风和园",
+        "longitude": "117.3020170",
+        "latitude": "31.8501850",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1108,
+        "countNum": 178
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区屯溪路152号方园居小区方园居小区B楼旁丰巢柜",
+        "packageName": "方园居小区",
+        "longitude": "117.3045040",
+        "latitude": "31.8487780",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1123,
+        "countNum": 180
+    },
+    {
+        "packageDeviceAddress": "中建大厦一楼货梯口对面",
+        "packageName": "丰巢",
+        "longitude": "117.3208620",
+        "latitude": "31.8558900",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 1125,
+        "countNum": 54
+    },
+    {
+        "packageDeviceAddress": "中建大厦一楼货梯口对面",
+        "packageName": "丰巢",
+        "longitude": "117.3208620",
+        "latitude": "31.8558900",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 1125,
+        "countNum": 55
+    },
+    {
+        "packageDeviceAddress": "铜陵路电信小区大门口旁",
+        "packageName": "丰巢",
+        "longitude": "117.3211210",
+        "latitude": "31.8567260",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 1133,
+        "countNum": 62
+    },
+    {
+        "packageDeviceAddress": "合肥市瑶海区胜利路18号二楼大厅",
+        "packageName": "龙湖冠寓速递易U04",
+        "longitude": "117.3022300",
+        "latitude": "31.8663600",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1136,
+        "countNum": 29
+    },
+    {
+        "packageDeviceAddress": "园丁禾小区大门口旁",
+        "packageName": "丰巢",
+        "longitude": "117.3212740",
+        "latitude": "31.8570400",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 1143,
+        "countNum": 65
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区裕溪路与铜陵路交口天成大厦物业办公室旁边（益康胃肠医院）",
+        "packageName": "天成大厦（益康胃肠医院）",
+        "longitude": "117.3187640",
+        "latitude": "31.8515610",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1154,
+        "countNum": 140
+    },
+    {
+        "packageDeviceAddress": "宝业城市绿苑北区4号楼保安室旁",
+        "packageName": "丰巢",
+        "longitude": "117.3205200",
+        "latitude": "31.8540200",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 1157,
+        "countNum": 95
+    },
+    {
+        "packageDeviceAddress": "屯溪路52号恒兴广场写字楼大厅北侧",
+        "packageName": "恒兴广场写字楼速递易A12",
+        "longitude": "117.3052220",
+        "latitude": "31.8481540",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1163,
+        "countNum": 6
+    },
+    {
+        "packageDeviceAddress": "屯溪路52号恒兴广场公寓楼大厅内北侧",
+        "packageName": "恒兴广场公寓楼速递易A13",
+        "longitude": "117.3052220",
+        "latitude": "31.8481540",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1163,
+        "countNum": 10
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区包公街道南一环恒兴广场对面周谷堆恢复楼大门左侧丰巢柜",
+        "packageName": "周谷堆恢复楼",
+        "longitude": "117.3052220",
+        "latitude": "31.8481540",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1163,
+        "countNum": 149
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区南一环恒兴广场后面东区自行车棚旁丰巢柜",
+        "packageName": "周谷堆小区",
+        "longitude": "117.3052220",
+        "latitude": "31.8481540",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1163,
+        "countNum": 157
+    },
+    {
+        "packageDeviceAddress": "胜利路66号金色梧桐二期5栋过道北侧",
+        "packageName": "金色梧桐二期速递易A21",
+        "longitude": "117.3047330",
+        "latitude": "31.8678230",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1167,
+        "countNum": 9
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区胜利路66号瑶海金色梧桐二期五号楼内丰巢智能快递",
+        "packageName": "瑶海金色梧桐",
+        "longitude": "117.3047330",
+        "latitude": "31.8678230",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1167,
+        "countNum": 198
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市蜀山区迎屏街342号万达中心名宅1期篮球场旁丰巢柜",
+        "packageName": "万达中心名宅",
+        "longitude": "117.2969670",
+        "latitude": "31.8563100",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1174,
+        "countNum": 169
+    },
+    {
+        "packageDeviceAddress": "吉泰嘉园小区北门东侧20米旁",
+        "packageName": "丰巢",
+        "longitude": "117.3217010",
+        "latitude": "31.8573400",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 1181,
+        "countNum": 66
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区大通路与铜陵路交口吉泰嘉苑北门旁丰巢柜",
+        "packageName": "吉泰嘉苑",
+        "longitude": "117.3217010",
+        "latitude": "31.8573400",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1181,
+        "countNum": 192
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区望湖街道南一环恒兴广场后面周谷堆小区西区7栋旁丰巢柜",
+        "packageName": "周谷堆小区",
+        "longitude": "117.3066640",
+        "latitude": "31.8476100",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1186,
+        "countNum": 156
+    },
+    {
+        "packageDeviceAddress": "合肥市瑶海区安托新村",
+        "packageName": "丰巢",
+        "longitude": "117.3212280",
+        "latitude": "31.8546390",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 1195,
+        "countNum": 57
+    },
+    {
+        "packageDeviceAddress": "翡翠路1599号福中心斯大厦南侧丰巢旁",
+        "packageName": "福中心斯速递易S56",
+        "longitude": "117.3199460",
+        "latitude": "31.8637750",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1196,
+        "countNum": 31
+    },
+    {
+        "packageDeviceAddress": "天成大厦入口东侧",
+        "packageName": "丰巢",
+        "longitude": "117.3191380",
+        "latitude": "31.8512610",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 1202,
+        "countNum": 59
+    },
+    {
+        "packageDeviceAddress": "宝业城市绿苑东区南门9栋2单元架空层",
+        "packageName": "丰巢",
+        "longitude": "117.3205720",
+        "latitude": "31.8530010",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 1209,
+        "countNum": 58
+    },
+    {
+        "packageDeviceAddress": "宝业城市绿苑东区17栋与13栋之间小广场",
+        "packageName": "丰巢",
+        "longitude": "117.3205720",
+        "latitude": "31.8530010",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 1209,
+        "countNum": 61
+    },
+    {
+        "packageDeviceAddress": "宝业城市绿苑东区西门51栋2单元架空层",
+        "packageName": "丰巢",
+        "longitude": "117.3205720",
+        "latitude": "31.8530010",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 1209,
+        "countNum": 94
+    },
+    {
+        "packageDeviceAddress": "宝业城市绿苑东区西门58栋1单元架空层",
+        "packageName": "丰巢",
+        "longitude": "117.3205720",
+        "latitude": "31.8530010",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 1209,
+        "countNum": 98
+    },
+    {
+        "packageDeviceAddress": "和平苑中央广场东侧靠墙",
+        "packageName": "丰巢",
+        "longitude": "117.3220060",
+        "latitude": "31.8588700",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 1210,
+        "countNum": 79
+    },
+    {
+        "packageDeviceAddress": "和平苑大门入口左侧门卫室旁",
+        "packageName": "丰巢",
+        "longitude": "117.3220060",
+        "latitude": "31.8588700",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 1210,
+        "countNum": 80
+    },
+    {
+        "packageDeviceAddress": "宝业城市绿苑北区6#与8#之间商铺后面",
+        "packageName": "丰巢",
+        "longitude": "117.3212600",
+        "latitude": "31.8540200",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 1221,
+        "countNum": 97
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区琅琊山路与临淮路交口菜市场管理办公室北侧丰巢柜",
+        "packageName": "铁路一村",
+        "longitude": "117.3108200",
+        "latitude": "31.8692500",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1255,
+        "countNum": 147
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区窑湾路6号（交通饭店旁边）车库围墙边",
+        "packageName": "省交通厅宿舍大院三区",
+        "longitude": "117.3025360",
+        "latitude": "31.8678300",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1258,
+        "countNum": 136
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区胜利路与明光路交口东北角怡康园一期南岗亭大门南侧",
+        "packageName": "怡康园一期",
+        "longitude": "117.3079990",
+        "latitude": "31.8693410",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1261,
+        "countNum": 116
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区东一环与乌依路交口东苑新村临淮路门监控室旁（便客超市对面入口）丰巢柜",
+        "packageName": "东苑新村",
+        "longitude": "117.3136140",
+        "latitude": "31.8688930",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1275,
+        "countNum": 142
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区合裕路与铜陵路交口隆庭佳苑12栋一单元架空层",
+        "packageName": "隆庭佳苑",
+        "longitude": "117.3192980",
+        "latitude": "31.8503280",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1281,
+        "countNum": 107
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区临淮路与东一环交口东苑新村31号楼旁2号丰巢柜",
+        "packageName": "东苑新村",
+        "longitude": "117.3131490",
+        "latitude": "31.8692230",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1297,
+        "countNum": 170
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区临淮路与东一环交口东苑新村31号楼旁1号丰巢柜",
+        "packageName": "东苑新村",
+        "longitude": "117.3131490",
+        "latitude": "31.8692230",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1297,
+        "countNum": 175
+    },
+    {
+        "packageDeviceAddress": "隆庭佳苑西区大门口入内保安岗亭旁",
+        "packageName": "丰巢",
+        "longitude": "117.3182700",
+        "latitude": "31.8490900",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 1312,
+        "countNum": 72
+    },
+    {
+        "packageDeviceAddress": "安徽省交通勘察设计院大门内",
+        "packageName": "丰巢",
+        "longitude": "117.3172300",
+        "latitude": "31.8483510",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 1317,
+        "countNum": 85
+    },
+    {
+        "packageDeviceAddress": "航道大院大门旁",
+        "packageName": "丰巢",
+        "longitude": "117.3179400",
+        "latitude": "31.8487630",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 1320,
+        "countNum": 70
+    },
+    {
+        "packageDeviceAddress": "航道大院车库旁",
+        "packageName": "丰巢",
+        "longitude": "117.3179400",
+        "latitude": "31.8487630",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 1320,
+        "countNum": 82
+    },
+    {
+        "packageDeviceAddress": "铜陵路208号华业苑东门入口处南侧",
+        "packageName": "华业苑速递易A75",
+        "longitude": "117.3232500",
+        "latitude": "31.8580800",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1324,
+        "countNum": 15
+    },
+    {
+        "packageDeviceAddress": "华业苑中央广场西侧单元楼下",
+        "packageName": "丰巢",
+        "longitude": "117.3232500",
+        "latitude": "31.8580800",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 1324,
+        "countNum": 74
+    },
+    {
+        "packageDeviceAddress": "华业苑中央10#楼旁边",
+        "packageName": "丰巢",
+        "longitude": "117.3232500",
+        "latitude": "31.8580800",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 1324,
+        "countNum": 75
+    },
+    {
+        "packageDeviceAddress": "华业苑大门入口处",
+        "packageName": "丰巢",
+        "longitude": "117.3232500",
+        "latitude": "31.8580800",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 1324,
+        "countNum": 76
+    },
+    {
+        "packageDeviceAddress": "金蓝湾休闲运动小广场丰巢智能柜",
+        "packageName": "丰巢快递柜",
+        "longitude": "117.2972340",
+        "latitude": "31.8642520",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 1326,
+        "countNum": 101
+    },
+    {
+        "packageDeviceAddress": "铜陵路与长江东大街交口34栋旁",
+        "packageName": "铜陵新村33栋速递易D13",
+        "longitude": "117.3225700",
+        "latitude": "31.8620100",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1335,
+        "countNum": 24
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区屯溪路49周谷堆旧货市场C1区大棚西侧丰巢柜",
+        "packageName": "周谷堆旧货市场",
+        "longitude": "117.3081280",
+        "latitude": "31.8460540",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1338,
+        "countNum": 186
+    },
+    {
+        "packageDeviceAddress": "隆庭佳苑11栋东墙边",
+        "packageName": "丰巢",
+        "longitude": "117.3198930",
+        "latitude": "31.8499200",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 1353,
+        "countNum": 71
+    },
+    {
+        "packageDeviceAddress": "隆庭佳苑东区大门旁",
+        "packageName": "丰巢",
+        "longitude": "117.3199200",
+        "latitude": "31.8498900",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 1357,
+        "countNum": 73
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区合裕路与铜陵路交口向东500米隆庭佳苑东区大门口入内保安岗亭旁",
+        "packageName": "隆庭佳苑东区",
+        "longitude": "117.3199200",
+        "latitude": "31.8498900",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1357,
+        "countNum": 104
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区三里街街道来安路1号来安路车桥厂保安室背侧大丰巢柜",
+        "packageName": "来安路车桥厂",
+        "longitude": "117.3210300",
+        "latitude": "31.8650200",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1358,
+        "countNum": 188
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区三里街街道三里街来安路1号车桥厂宿舍保安室旁丰巢柜",
+        "packageName": "车桥厂宿舍",
+        "longitude": "117.3207630",
+        "latitude": "31.8654420",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1365,
+        "countNum": 168
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区宣城路怡景花园小区西门左侧",
+        "packageName": "怡景花园",
+        "longitude": "117.2964400",
+        "latitude": "31.8521400",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1375,
+        "countNum": 126
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区宣城路与芜湖路交口安徽省体育局南村1号门丰巢柜",
+        "packageName": "安徽省体育局南村",
+        "longitude": "117.2969130",
+        "latitude": "31.8514310",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1376,
+        "countNum": 199
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区宣城路与芜湖路交口安徽省体育局南村2号门丰巢柜",
+        "packageName": "安徽省体育局南村",
+        "longitude": "117.2969130",
+        "latitude": "31.8514310",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1376,
+        "countNum": 200
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区新站区长江东路946号康乐新村9号楼通道1号丰巢柜",
+        "packageName": "康乐小区",
+        "longitude": "117.3090210",
+        "latitude": "31.8704700",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1381,
+        "countNum": 167
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区临淮路1号铁路一村7栋楼下丰巢柜",
+        "packageName": "铁路一村",
+        "longitude": "117.3116680",
+        "latitude": "31.8704430",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1397,
+        "countNum": 197
+    },
+    {
+        "packageDeviceAddress": "小高炉路252号北门保安室丰巢旁",
+        "packageName": "印染厂宿舍速递易U29",
+        "longitude": "117.3237340",
+        "latitude": "31.8607010",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1401,
+        "countNum": 30
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区长江东路835号来安新村1栋后院丰巢柜",
+        "packageName": "来安新村",
+        "longitude": "117.3197560",
+        "latitude": "31.8671890",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1422,
+        "countNum": 176
+    },
+    {
+        "packageDeviceAddress": "和平路社区服务中心宿舍北面墙",
+        "packageName": "丰巢",
+        "longitude": "117.3237530",
+        "latitude": "31.8546470",
+        "contactName": "",
+        "contactMobile": "",
+        "meter": 1423,
+        "countNum": 64
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区胜利路与光明路交叉口嘉合生活广场西侧",
+        "packageName": "嘉合生活广场",
+        "longitude": "117.3063660",
+        "latitude": "31.8707080",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1433,
+        "countNum": 183
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区南一环路与淝河路交口向南200米凤巢园小区进门左侧丰巢柜",
+        "packageName": "凤巢园",
+        "longitude": "117.3050690",
+        "latitude": "31.8456100",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1438,
+        "countNum": 150
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区铜陵路与同心路交口铜陵西村非机动车库西边丰巢柜",
+        "packageName": "铜陵西村",
+        "longitude": "117.3232300",
+        "latitude": "31.8632700",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1444,
+        "countNum": 159
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区方庙街道办事处临泉路与东二环交口聚贤山庄单元入口旁丰巢柜",
+        "packageName": "聚贤山庄",
+        "longitude": "117.3242650",
+        "latitude": "31.8553940",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1450,
+        "countNum": 203
+    },
+    {
+        "packageDeviceAddress": "临淮路与东一环交口监控室南侧大厅",
+        "packageName": "铭座大厦速递易A10",
+        "longitude": "117.3152010",
+        "latitude": "31.8701100",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1455,
+        "countNum": 13
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区临淮路7号锦绣嘉苑9号楼北健身器材广场2号丰巢柜",
+        "packageName": "瑶海锦绣嘉苑",
+        "longitude": "117.3125380",
+        "latitude": "31.8709130",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1464,
+        "countNum": 184
+    },
+    {
+        "packageDeviceAddress": "三里街天长路豪世优庭 二期物业办门口",
+        "packageName": "豪世优庭 二期速递易J99",
+        "longitude": "117.3177110",
+        "latitude": "31.8690800",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1465,
+        "countNum": 26
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区临淮中路与天长路交口豪世优庭二期大门入内右侧墙边",
+        "packageName": "豪世优庭二期",
+        "longitude": "117.3177110",
+        "latitude": "31.8690800",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1465,
+        "countNum": 109
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区包公街道宣城路64号星辰花园星辰花园小区西南角草坪上",
+        "packageName": "星辰花园",
+        "longitude": "117.2960210",
+        "latitude": "31.8510700",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1469,
+        "countNum": 130
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市瑶海区窑湾路6号（交通饭店旁边）小区门口围墙",
+        "packageName": "省交通厅宿舍大院一区",
+        "longitude": "117.3010400",
+        "latitude": "31.8692800",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1469,
+        "countNum": 137
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区宣城路64号星辰花园大门入口右侧拐角丰巢柜",
+        "packageName": "星辰花园",
+        "longitude": "117.2960210",
+        "latitude": "31.8510700",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1469,
+        "countNum": 189
+    },
+    {
+        "packageDeviceAddress": "安徽省合肥市包河区铜陵南路和南淝河路交口蓝鼎星河府东门入口大厅",
+        "packageName": "蓝鼎星河府",
+        "longitude": "117.3124390",
+        "latitude": "31.8450780",
+        "contactName": "NULL",
+        "contactMobile": "NULL",
+        "meter": 1474,
+        "countNum": 100
     }
 ]

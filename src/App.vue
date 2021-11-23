@@ -88,13 +88,20 @@ export default {
       async getPoints() {
           this.loading = true
           // 手动延迟模拟请求效果
-          this.netPoints.data = await this.doRequest()
+          const data = await this.doRequest()
+          console.log(data)
+          this.netPoints.data = data
           this.loading = false
       },
       doRequest() {
           return new Promise((resolve, reject) => {
               setTimeout(() => {
-                  resolve(POINTS)
+                  resolve(POINTS.map(item => {
+                      return {
+                            ...item,
+                            type: Math.floor(Math.random() * 4) + 1
+                      }
+                  }))
               },3000)
           })
       },

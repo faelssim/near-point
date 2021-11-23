@@ -3,10 +3,10 @@
 </template>
 <script>
 const { AMap } = window
-const MARKER_SIZE_SMALL = new AMap.Size(30, 30) // 原始图标大小
+const MARKER_SIZE_SMALL = new AMap.Size(25, 25) // 原始图标大小
 const MARKER_SIZE_LARGE = new AMap.Size(40, 40) // 放大图标大小
 const MARKER_PIXEL_SMALL = new AMap.Pixel(5, 5) // 原始图标位置
-const MARKER_PIXEL_LARGE = new AMap.Pixel(10, 15) // 放大图标位置
+const MARKER_PIXEL_LARGE = new AMap.Pixel(10, 20) // 放大图标位置
 // 标记物样式的数组 (包含原始样式和放大的样式)
 const MARKER_STYLE = [
     // EMS

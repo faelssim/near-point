@@ -9,14 +9,14 @@
             >
                 <div class="flex-row list-item-header">
                     <div :style="{'background': item_type[item.type].color}">{{ item_type[item.type].name }}</div>
-                    <b>{{ item.address }}</b>
-                </div>
-                <div class="flex-row mt-10">
-                    <div class="item-text-gray">{{ item.address }}</div>
-                </div>
+                    <div>
+                        <b>{{ item.packageName }}</b>
+                    </div>
+                </div?>
+                <div class="item-text-gray item-text-2 mt-10">{{ item.packageDeviceAddress }}</div>
                 <div class="mt-10">
                     <span>营业时间：</span>
-                    <span class="item-text-gray">{{ item.time }}</span>
+                    <span class="item-text-gray">{{ item.contactMobile }}</span>
                 </div>
             </li>
         </ul>
@@ -61,7 +61,7 @@ export default {
             const ref = this.$refs[`item_${nv}`]
             if (ref && ref[0]) {
                 ref[0].scrollIntoView({
-                    behavior: 'smooth'
+                    behavior: this.data.length < 20 ? 'smooth' : 'auto'
                 })
             }
         }
@@ -82,22 +82,37 @@ export default {
         position: relative;
         background: #fff;
         align-items: flex-start;
+        >div{
+            width: 100%;
+        }
         .list-item-header{
-            div{
+            justify-content: flex-start;
+            div:nth-child(1){
                 padding: 0.2rem 0.5rem;
                 border-radius: 0.3rem;
                 font-size: 1.2rem;
                 color: #fff;
+                flex: 0 0 auto;
+            }
+            div:nth-child(2){
+                flex: 1 1 auto;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                margin-left: 1rem;
             }
             b{
                 font-size: 1.4rem;
-                margin-left: 1rem;
                 font-weight: bold;
             }
         }
         .item-text-gray{
             font-size: 1.2rem;
             color: #938e8e;
+        }
+        .item-text-2{
+            // flex: 1 0 auto;
+            text-overflow: ellipsis;
+            overflow: hidden;
         }
         .mt-10{
             margin-top: 1rem;
